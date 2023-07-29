@@ -1,6 +1,0 @@
-
-# commit script
-
-git add ./*
-
-
